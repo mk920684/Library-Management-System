@@ -19,6 +19,7 @@ public class IssueBook extends javax.swing.JFrame {
 
     /** Creates new form IssueBook */
     public IssueBook() {
+        super("Issue Book");
         initComponents();
     }
 
